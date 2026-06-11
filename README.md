@@ -28,4 +28,4 @@ This Power BI dashboard analyzes HR data and helps track workforce performance, 
 - Dashboard Screenshot
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Screenshot 2026-06-07 183306.png)
